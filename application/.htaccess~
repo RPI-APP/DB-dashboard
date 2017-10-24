@@ -1,0 +1,7 @@
+Deny from all
+
+# enable xsendfile
+XSendFile On
+
+# enable sending files from parent dirs
+XSendFileAllowAbove On
